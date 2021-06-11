@@ -1,1 +1,1 @@
-Hello world, It's my first time
+It's my first time programming
